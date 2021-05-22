@@ -1,0 +1,46 @@
+.App {
+  text-align: center;
+}
+
+.headerContainer {
+  background-color: #5F6A6A;
+  padding: 12px;
+  position: fixed;
+  width: 100%;
+}
+
+.headerLeftRow {
+  float: left;
+}
+
+.headerRightRow {
+  float: right;
+  padding: 20px;
+}
+
+.header {
+  font-size: 26px;
+  color: white;
+  text-transform: uppercase;
+  margin-bottom: 8px;
+}
+
+.serchBoxContainer {
+  background-color: brown;
+}
+
+.listContainer {
+  padding-top: 110px;
+}
+
+.listRow {
+  height: 120px;
+  margin-bottom: 20px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.imgBox {
+  float: left;
+  padding: 15px;
+}
+
